@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+=======
+
+
+
+Class hi
+{
+   Return 1
+}
+>>>>>>> parent of dc19f91 (storing f1 txt fot 1 st change)
