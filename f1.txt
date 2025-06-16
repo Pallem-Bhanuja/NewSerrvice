@@ -1,0 +1,7 @@
+
+
+
+Class hi
+{
+   Return 1
+}
