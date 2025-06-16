@@ -4,4 +4,9 @@
 Class hi
 {
    Return 1
+
 }
+
+}
+}
+ main
