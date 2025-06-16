@@ -4,17 +4,7 @@
 Class hi
 {
    Return 1
-<<<<<<< HEAD
 
 }
 
-=======
-}
-class  Test
-{
-    Public void m2()
-    {
-      Syestem.out.println("8");
-     }
->>>>>>> 4a458a6e1be8be90c32b2efaf02095e207f3fecc
 }
