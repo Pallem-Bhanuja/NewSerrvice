@@ -1,0 +1,14 @@
+
+
+
+Class hi
+{
+   Return 1
+}
+class  Test
+{
+    Public void m2()
+    {
+      Syestem.out.println("8");
+     }
+}
