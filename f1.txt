@@ -6,5 +6,9 @@
 Class hi
 {
    Return 1
+<<<<<<< HEAD
+}
+>>>>>>> parent of dc19f91 (storing f1 txt fot 1 st change)
+=======
 }
 >>>>>>> parent of dc19f91 (storing f1 txt fot 1 st change)
