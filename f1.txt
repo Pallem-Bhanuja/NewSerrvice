@@ -8,3 +8,5 @@ Class hi
 }
 
 }
+}
+ main
