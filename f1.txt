@@ -3,7 +3,7 @@
 
 Class hi
 {
-   Return 
+   Return "hi";
 
 }
 
