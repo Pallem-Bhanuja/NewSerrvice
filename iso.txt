@@ -1,10 +1,10 @@
 public static void main(String args[])
     {
-        if (isPrime(11))
+        if (isPrime(112)
             System.out.println(" true");
         else
             System.out.println(" false");
-        if (isPrime(15))
+        if (isPrime(151))
             System.out.println(" true");
         else
             //System.out.println(" false");
